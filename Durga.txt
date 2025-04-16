@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 santhi is in vizaggg
+=======
+santhi is in vizagg.Vizag is a beautiful location.
+>>>>>>> e4f12419bf92c0e08fe86f6ef65186510b464ff1
