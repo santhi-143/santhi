@@ -2,4 +2,4 @@ git add .; git add *; git add filename with extention
 untracked commit
 git commit -m "add the file"
 stage command
-git push -u origin master
+git push -u origin masterr
